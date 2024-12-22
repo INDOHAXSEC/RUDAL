@@ -1,0 +1,17 @@
+PEMASANAGAN YANG DI BUTUHKAN:
+
+python3
+python2
+requests
+figlet
+nodejs
+
+PENGGUNAAN:
+• python misil https://target.com
+• node Rudal js https://target.com 500 30 10 proxy.txt
+• python2 balistik.py
+
+•STRATEGI FULL POWER:
+untuk misil 2 slot
+untuk rudal 2 slot
+untuk balistik 1 slot 
